@@ -1,5 +1,5 @@
 class IndexController < ApplicationController
   def test
-    render :status => :create
+    render :status => :created
   end
 end
